@@ -9,7 +9,7 @@ export const RoadmapReimagined: React.FC<RoadmapReimaginedProps> = ({}) => {
     <div className="flex w-screen items-center justify-between bg-[#060606] py-32">
       <div className="flex flex-col gap-8 pl-32">
         <div className="text-5xl font-black text-white 2xl:text-6xl">
-          Roadmaps,
+          roadmaps,
           <br /> reimagined.
         </div>
         <div className="text-base text-gray-400 xl:text-lg 3xl:text-xl">
